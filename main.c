@@ -2,6 +2,7 @@
 #include <point.h>
 
 typedef enum { false, true } bool;
+
 //===============================
 //  Declaracion de funciones
 //===============================
