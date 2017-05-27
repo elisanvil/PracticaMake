@@ -116,14 +116,15 @@ int main(){
 //  Implementacion de funciones
 //===============================
 void mostrarMensajeInicial(){
-    printf("\n.-------------------------------------.");
-    printf("\n|  Programa que calcula la distancia  |");
-    printf("\n|  entre dos puntos 'A' y 'B' en R3   |");
-    printf("\n|                                     |");
-    printf("\n|  REGLAS:                            |");
-    printf("\n|  - Ingrese enteros para cada        |");
-    printf("\n|    coordenada de los puntos A y B   |");
-    printf("\n'-------------------------------------'\n");
+    printf("\n.--------------------------------------.");
+    printf("\n|  Programa que calcula la distancia   |");
+    printf("\n|  entre dos puntos 'A' y 'B' en R3    |");
+    printf("\n|                                      |");
+    printf("\n|  REGLAS:                             |");
+    printf("\n|  - Ingrese enteros o flotantes para  |");
+    printf("\n|    cada coordenada de los puntos     |");
+    printf("\n|    A y B.                            |");
+    printf("\n'--------------------------------------'\n");
 }
 
 
